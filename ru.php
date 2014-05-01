@@ -335,7 +335,7 @@ $_MODULE['<{autoupgrade}prestashop>adminselfupgrade_456a33b123e0b4831a7ecbe77803
 $_MODULE['<{autoupgrade}prestashop>adminselfupgrade_17451496c83f774d3c8b3462ae2e7721'] = 'Каналы альфа, бета и частные каналы дают вам возможность обновляться до неофициальных или нестабильных релизов (только для целей тестирования)';
 $_MODULE['<{autoupgrade}prestashop>adminselfupgrade_7d71d389caebafeecac50e98c8e14dec'] = 'По умолчанию, следует использовать канал \"minor релизов\", который предлагает наиболее свежую доступную стабильную версию.';
 $_MODULE['<{autoupgrade}prestashop>adminselfupgrade_e58eae3d7ced672a49b5716587b15f89'] = 'Начните процесс обновления';
-$_MODULE['<{autoupgrade}prestashop>adminselfupgrade_89de86aa34494d545d8cbb4fff3a4e59'] = 'Последняя проверка% %s ';
+$_MODULE['<{autoupgrade}prestashop>adminselfupgrade_89de86aa34494d545d8cbb4fff3a4e59'] = 'Последняя проверка: %s';
 $_MODULE['<{autoupgrade}prestashop>adminselfupgrade_96f1fa7f23402c1307c8e2c57c6bccfa'] = 'Обновление в 1 клик';
 $_MODULE['<{autoupgrade}prestashop>adminselfupgrade_9a843f20677a52ca79af903123147af0'] = 'Добро пожаловать!';
 $_MODULE['<{autoupgrade}prestashop>adminselfupgrade_054698c9e53fa1c70556b37bdb9fa922'] = 'Использование модуля PrestaShop 1-click upgrade позволяет с легкостью обновлять ваш магазин до последней доступной версии!';
